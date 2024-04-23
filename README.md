@@ -9,4 +9,5 @@ e critiva na produção visual de Apps & WebSites!
 Nas redes sociais podem me encontrar através de dois perfis!
 
 📖 | Acadêmico, @joaaopedro.medeiros
+
 ⌨️ | Profissional, @joaomedeiros.web 
