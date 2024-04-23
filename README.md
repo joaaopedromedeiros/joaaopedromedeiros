@@ -7,5 +7,6 @@ e critiva na produção visual de Apps & WebSites!
 🎓 | Learning HTML & CSS
 
 Nas redes sociais podem me encontrar através de dois perfis!
+
 📖 | Acadêmico, @joaaopedro.medeiros
 ⌨️ | Profissional, @joaomedeiros.web 
