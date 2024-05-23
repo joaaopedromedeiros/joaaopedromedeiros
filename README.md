@@ -4,7 +4,7 @@ e critiva na produção visual de Apps & WebSites!
 📚 | Student at Federal institute of Rio Grande do Norte, Brazil
 
 💻 | UX/UI Designer 
-🎓 | Learning HTML & CSS
+🎓 | Web Developer Student -  HTML, CSS & Java Script
 
 Nas redes sociais podem me encontrar através de dois perfis!
 
