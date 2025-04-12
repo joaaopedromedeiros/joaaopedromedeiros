@@ -28,8 +28,8 @@ João is currently a student at IFRN, taking an integrated technical course in I
 #
 
 ### 📺 Social Networks 
-<h3>LinkedIn:</h3> <a style="text-decoration: none; " href="https://www.linkedin.com/in/jo%C3%A3oamedeiros/">Click here</a>
-<h3>Instagram:</h3> <a style="text-decoration: none; " href=https://www.instagram.com/joaomedeiros.web/">Click here</a>
+<h3>LinkedIn:</h3> <a target="_blank" " href="https://www.linkedin.com/in/jo%C3%A3oamedeiros/">Click here</a>
+<h3>Instagram:</h3> <a target="_blank" " href=https://www.instagram.com/joaomedeiros.web/">Click here</a>
 
 #
 
