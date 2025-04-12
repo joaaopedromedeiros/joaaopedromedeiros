@@ -1,6 +1,6 @@
-# 🏄‍♂️ João A. Medeiros 
+#  João A. Medeiros 
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Web`** **`Designer UI/UX`**
 
 João is currently a student at IFRN, taking an integrated technical course in Information Technology, and is interested in the areas of Graphic Design, Social Media, Web, & UX/UI. He is developing his programming skills by studying basic front-end languages, such as HTML, CSS3 & Java Script, on the Rockeatseat educational platform. In the future, he intends to venture into the back-end.
 
