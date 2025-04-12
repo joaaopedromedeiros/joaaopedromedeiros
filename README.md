@@ -36,7 +36,7 @@ João is currently a student at IFRN, taking an integrated technical course in I
 
 ### 📊 Stats
 
-![João Medeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![João Medeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaaopedromedeiros&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
