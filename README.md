@@ -28,7 +28,7 @@ João is currently a student at IFRN, taking an integrated technical course in I
 #
 
 ### 📺 Latest LinkedIn posts
-<a href="https://www.linkedin.com/in/jo%C3%A3oamedeiros/">Click here</a>
+<a style="text-decoration: none; " href="https://www.linkedin.com/in/jo%C3%A3oamedeiros/">Click here</a>
 
 #
 
