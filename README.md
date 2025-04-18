@@ -4,13 +4,6 @@
 
 João is currently a student at IFRN, taking an integrated technical course in Information Technology, and is interested in the areas of Graphic Design, Social Media, Web, & UX/UI. He is developing his programming skills by studying basic front-end languages, such as HTML, CSS3 & Java Script, on the Rockeatseat educational platform. In the future, he intends to venture into the back-end.
 
-   <p align="left">
-      <a href="https://github.com/joaaopedromedeiros?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joaaopedromedeiros?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/joaaopedromedeiros?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joaaopedromedeiros?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
